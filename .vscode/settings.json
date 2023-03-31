@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "nix.formatterPath": "/home/user/.nix-profile/bin/nixpkgs-fmt",
+    "nix.serverPath": "/home/user/.nix-profile/bin/rnix-lsp"
+}

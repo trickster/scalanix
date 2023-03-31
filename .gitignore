@@ -1,0 +1,31 @@
+target/
+result
+
+*~
+project/project
+.metals/
+.bsp/
+.DS_Store
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+TempStatsStore/
+.history
+.cache
+.lib/
+.idea/
+.bloop/
+
+### Scala ###
+*.class
+*.log
+*~
+*#
+*.xml
+
+/spark-warehouse/
+# Scala template downloaded with gut
+hs_err_pid*
